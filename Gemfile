@@ -15,6 +15,7 @@ gem 'normalize-rails'
 gem 'devise'
 gem 'rubocop', require: false
 gem 'simple_form'
+gem 'bootstrap-sass', '~> 3.3.6'
 
 
 group :development, :test do

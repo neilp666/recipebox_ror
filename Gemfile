@@ -10,12 +10,12 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'paperclip', git: 'git://github.com/thoughtbot/paperclip.git'
 gem 'haml', '~> 4.0', '>= 4.0.7'
-gem 'bootstrap-sass', '~> 3.3.6'
 gem 'normalize-rails'
 gem 'devise'
 gem 'rubocop', require: false
 gem 'simple_form'
 gem 'bootstrap-sass', '~> 3.3.6'
+gem 'cocoon', '~> 1.2', '>= 1.2.9'
 
 
 group :development, :test do
